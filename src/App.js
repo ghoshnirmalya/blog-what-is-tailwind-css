@@ -6,7 +6,7 @@ import "./styles/tailwind.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header bg-blue-900">
+      <header className="App-header u-bg-blue-900">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
