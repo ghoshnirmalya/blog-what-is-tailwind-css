@@ -1,4 +1,4 @@
-This repository is an example project for the article [What is TailwindCSS and what problems does this new CSS framework solve for us](https://www.nirmalyaghosh.com/what-is-tailwind-css).
+This repository is an example project for the article [What is TailwindCSS and what problems does this new CSS framework solve for us](https://www.nirmalyaghosh.com/blog/what-is-tailwind-css-and-what-problems-does-this-new-css-framework-solve-for-us).
 
 ## Step 1: To start using this project, you need to install the dependencies first:
 
